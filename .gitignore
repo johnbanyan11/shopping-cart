@@ -15,6 +15,7 @@ src/components/todolist
 src/context/todolist
 src/pages/todolist
 src/models
+.gitignore
 
 
 # Editor directories and files
