@@ -15,7 +15,7 @@ src/components/todolist
 src/context/todolist
 src/pages/todolist
 src/models
-src/TodoApp
+
 
 # Editor directories and files
 .vscode/*
